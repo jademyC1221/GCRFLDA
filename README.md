@@ -1,5 +1,6 @@
 # GCRFLDA
-A method for predicting lncRNA-disease potential associations
+A method for predicting lncRNA-disease potential associations 
+
 GCRFLDA: Scoring lncRNA-disease associations using graph convolution matrix completion with conditional random field
 
 # Take Dataset 1 as an example：
@@ -20,5 +21,7 @@ Model Predicting:
 2. used GCRFLDA_casestudy.py to predict potential lncRNA-disease associations from all unknown associations, and sorted the potential associations according to predicted scores. 
 
 # Dependency
+
 pytorch 
+
 matlab
