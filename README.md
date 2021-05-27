@@ -6,7 +6,7 @@ GCRFLDA: Scoring lncRNA-disease associations using graph convolution matrix comp
 # Take Dataset 1 as an example：
 
 Model Training： 
-1. used TenfoldCrossvalidation.m to read lncRNA-disease associations and divided into five subsets for 5-fold cv. 
+1. used TenfoldCrossvalidation.m to read lncRNA-disease associations and divided into five subsets for 10-fold cv. 
 
 2. used dataset1tenfoldcvandsideinformation.m to calculate the gaussian interaction profile kernels similarity and cosine similarity of lncRNA and disease as side information. 
 
