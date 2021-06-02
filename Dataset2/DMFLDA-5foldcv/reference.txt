@@ -1,0 +1,3 @@
+''' cite this:
+M. Zeng et al., "DMFLDA: A deep learning framework for predicting IncRNA–disease associations," 
+  in IEEE/ACM Transactions on Computational Biology and Bioinformatics, doi: 10.1109/TCBB.2020.2983958.'''
