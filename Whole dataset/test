@@ -1,1 +1,11 @@
-test
+1：wholesetAssociation4339.m
+%data calculate 
+
+2：wholedataset_fivefold0715_para.py
+%grid search for epoch,dropout,learningrate 
+
+3: wholedataset_fivefold0715_weight.py
+%grid search for LNF and obtained the best parameters 
+
+4: Wholedataset4339casestudy.py
+%casestudy by GCRFLDA 
